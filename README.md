@@ -27,7 +27,7 @@ The data for this project was a provided dataset. I performed data cleaning and 
 
 ##  Visuals
 
-![Dashboard Screenshot](images/MovieRevenueDashboard_2023-1.png)
+![Dashboard Screenshot](MovieRevenueDashboard_2023-1.png)
 
 ##  Contact
 
