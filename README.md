@@ -22,8 +22,6 @@ The data for this project was a provided dataset. I performed data cleaning and 
 * Microsoft Excel
 * Pivot Tables
 * Slicers
-* Automation (Formulas)
-* Charts
 
 ##  Visuals
 
