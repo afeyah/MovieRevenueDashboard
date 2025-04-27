@@ -1,2 +1,34 @@
-# MovieRevenueDashboard
-Excel-based dashboard visualizing 2023 movie revenue. Analyzed data to provide insights into film performance.
+#   Movie Revenue Dashboard
+
+##  Description
+
+This project is an Excel-based dashboard that visualizes movie revenue data for 2023.  It provides insights into film performance, trends, and comparisons across different genres and distributors.
+
+##  Project Goal
+
+The goal of this dashboard is to:
+
+* Track monthly revenue for a set of movies.
+* Compare revenue performance across different genres and distributors.
+* Identify top-performing and underperforming films.
+* Provide a user-friendly tool for exploring the data.
+
+##  Data Source
+
+The data for this project was a provided dataset. I performed data cleaning and transformation in Excel.
+
+##  Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Slicers
+* Automation (Formulas)
+* Charts
+
+##  Visuals
+
+![Dashboard Screenshot](images/dashboard_screenshot.png)
+
+##  Contact
+
+[LinkedIn](www.linkedin.com/in/afiq-sigarra)
