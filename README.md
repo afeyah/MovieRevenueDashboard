@@ -31,4 +31,4 @@ The data for this project was a provided dataset. I performed data cleaning and 
 
 ##  Contact
 
-[LinkedIn](www.linkedin.com/in/afiq-sigarra)
+[LinkedIn](https://www.linkedin.com/in/afiq-sigarra/)
